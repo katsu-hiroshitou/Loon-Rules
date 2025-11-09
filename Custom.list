@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,superqqshow.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,gamecenter.qq.com,REJECT-DROP
+DOMAIN-KEYWORD,gov,DIRECT
+DOMAIN-SUFFIX,kelee.one,Firewall
+USER-AGENT,"QQ*",Firewall
