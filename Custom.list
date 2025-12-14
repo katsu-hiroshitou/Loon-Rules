@@ -1,5 +1,6 @@
 USER-AGENT,"QQ*"
 DOMAIN-SUFFIX,kelee.one
-DOMAIN-SUFFIX,qq.com
+#DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,collector.weiyun.com
 IP-ASN,4134
+IP-ASN,139341
